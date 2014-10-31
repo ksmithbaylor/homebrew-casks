@@ -7,4 +7,5 @@ class KjsJunosPulse < Cask
   license :unknown
 
   app 'Junos Pulse.app'
+  app 'Junos Pulse.app/Contents/Plugins/JamUI/PulseTray.app'
 end

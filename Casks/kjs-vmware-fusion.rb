@@ -1,4 +1,4 @@
-class VmwareFusion < Cask
+class KjsVmwareFusion < Cask
   version '6.0.5-2209127'
   sha256 '2f312294eb577568c16204027a12e8050a6aa33c42d175c3b6b3ff3909c51731'
 

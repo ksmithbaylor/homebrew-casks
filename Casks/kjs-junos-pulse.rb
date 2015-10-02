@@ -1,4 +1,4 @@
-class KjsJunosPulse < Cask
+cask :v1 => 'kjs-junos-pulse' do
   version '5.0.4'
   sha256 '7e8c40dacdbf99ea16cd39f797c339e623fa5710f17453b71dedbef6db746c90'
 
